@@ -18,7 +18,7 @@ section {
     display: flex;
     position: relative;
     top: 3rem;
-    background: #94e9e0;
+    background: thistle;
 }
 
 img {
@@ -31,7 +31,7 @@ header {
     text-align: center;
     background-color: black;
     font-style: italic;
-    color: #14bdac;
+    color: yellowgreen;
 }
 
 @media (max-width: 500px) {
