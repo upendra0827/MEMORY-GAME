@@ -31,7 +31,7 @@ header {
     text-align: center;
     background-color: black;
     font-style: italic;
-    color: yellowgreen;
+    color: rgb(160, 224, 160);
 }
 
 @media (max-width: 500px) {
